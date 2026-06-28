@@ -10,5 +10,5 @@
 - 'Crime Data Bangladesh' from Kaggle
 
 ## Dashboards and Reports-
-- WFP Food Price Dashboard
-- Crime Data Dashboard
+- WFP Food Price Dashboard [Dashboard](dashboard-files/WFP_Food_Price_Dashboard.pbix)  [Report](reports/Report_WFP_Food_Price.pdf)
+- Crime Data Dashboard [Dashboard](dashboard-files/CrimeTrend-Dashboard.pbix)  [Report](reports/Report_Crime_Data.pdf)
